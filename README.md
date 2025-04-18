@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinKasinKul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning application (C#,Python)
+- 👀 I’m interested in micorservice
+- 🌱 I’m currently learning application (C#,Python,Javascript,NodeJS,TypeScript)
 - 💞️ I’m looking to collaborate on ...
 - 📫 kasin.kulj@gmail.com
 
